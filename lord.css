@@ -1,0 +1,331 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.long-img{
+    background-image: url(https://images03.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/311ebf9ec39a5c1f8b8241af/pexelsphoto1927507.jpeg );
+    width: 100%;
+    height: 500px;;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+    position: absolute;
+    display: block;
+}
+.note{
+    color: white;
+    text-align: left;
+    margin-left: 110px;
+    margin-top: 180px;
+    font-size: 18px;
+    font-family:Open Sans;
+    cursor: pointer;
+}
+.inner-head{
+    color: white;
+    position: absolute;
+    left: 110px;
+    bottom: 80px;
+    font-size: 60px;
+    display: inline;
+    font-family:Open Sans ;
+    cursor: pointer;
+}
+.al{
+    color: black;
+}
+.body{
+    background-color: rgb(16, 138, 138);
+}
+.texta{
+    background-color:rgba(87, 142, 150, 0.911);
+    width: 50%;
+    float: left;
+    block-size: 27%;
+    margin-top: 448px;
+  
+    padding-top: 10%;
+    
+  }
+  .textb{
+    background-color:rgba(87, 142, 150, 0.911);
+   
+    width: 50%;
+    float: right;
+    color: white;
+    block-size: 27%;
+    padding-top: 10%;
+    margin-top: 448px;
+   
+  }
+  .m{
+    color: white;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-right: 3%;
+   text-align:end;
+  
+  
+  }
+  .n{
+    color: black;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: end;
+    padding-top: 3.2%;
+    padding-right: 3%;
+    padding-bottom:10% ;
+  
+   
+  }
+  .b{
+    padding-left: 3%;
+    width: 370px;
+    text-align:start;
+    font-size: 12px;
+    padding-bottom:7.2% ;
+    padding-right: 10%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .p1{
+    color: black;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+    padding-top: 730px;
+    padding-left: 10px;
+    padding: bottom 0;
+    
+  
+
+  }
+  .p2{
+    color: black;
+    padding-top: 0%;
+    font-size: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+  }
+  * {
+    box-sizing: border-box;
+    padding: top 850px; 
+  }
+  .calm {
+    
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  .are::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+ 
+  .s1{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  }
+  .s2{
+    color: black;
+    width: 200px;
+    font-size: 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  }
+  .sections{
+    background-color: rgb(29, 29, 29);
+    display:flex;
+    padding: 40px;
+    width: 100%;
+   
+  }  
+  .sections img{
+    height: 300px;
+    display: block;
+    margin-right: 15px;
+    padding-left: 20px;
+  }
+  .ya{
+    color: white;
+    padding-top: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .yb{
+    color: white;
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 500px;
+  }
+  .yc{
+    color: white;
+    font-size: small;
+    background-color: rgb(80, 155, 186);
+    padding: 7px 7px 7px 7px;
+    cursor: pointer;
+    transition: 0.8s;
+    border: none;
+  }
+  .yc:hover{
+    color: rgb(80, 155, 186);
+    background-color: white;
+  }
+  .xa{
+    color: black;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+    padding-left: 10px;
+    padding: bottom 0;
+    
+  
+
+  }
+  .xb{
+    color: black;
+    text-align: center;
+    font-size: 12px;
+    padding-left: 400px;
+    padding-right: 400px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+  }
+  .wa{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+  .va{
+     width: 400px;
+     height: 400px;
+     margin: 5px;
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+.vs{
+	line-height: 1;
+	font-family: 'Poppins', sans-serif;}
+
+  .contain{
+    justify-content: center;
+    padding-left: 170px;
+    align-items: center;
+   
+    color: #ffffff;
+    font-size: 8px;
+  }
+  .are{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  ul{
+    list-style: none;
+  }
+  .foot{
+    background-color:rgba(87, 142, 150, 0.91);
+      padding: 70px 0;
+  }
+  .foot-col{
+     width: 25%;
+     padding: 0 15px;
+  }
+  .foot-col h4{
+    font-size: 20px;
+    color: #ffffff;
+    text-transform: capitalize;
+    margin-left: 2px;
+    margin-bottom: 15px;
+    font-weight: 500;
+    position: relative;
+  }
+  @media(max-width: 767px){
+    .footer-col{
+      width: 50%;
+      margin-bottom: 30px;
+  }
+  }
+  @media(max-width: 574px){
+    .footer-col{
+      width: 100%;
+  }
+  }
+  .ta {
+    float: left;
+    width: 33.33%;
+  
+  }
+  
+  .tb::after {
+    content:"";
+    display: table;
+    clear: both;
+  }
+ .cols{
+  width: 100%;
+  height: 500px;
+  background-image: linear-gradient(90deg,#578e96e8
+  50%,#191616 50%);
+ }
+ .home{
+  width: 600px;
+  display:inline-block;
+  padding-left: 60px;
+  padding-top: 80px;
+ }
+ .homea{
+  color: white;
+  font-size: 30px;
+  
+ }
+ .homeb{
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+ }
+ .fab{
+  color: white;
+  margin-right: 20px;
+ }
+ .fab:active{
+  color: rgb(59, 59, 163);
+ }
+ .form{
+  margin: 0%;
+ }
+ .eco{
+  display: inline-block;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-left: 180PX;
+  color: white;
+ }
+ .ecoa{
+  color: #ffffff;
+ background: #191616;
+width: 250px;
+font-size: 10px;
+padding-top: 2px;
+padding-bottom: 2px;
+
+ }
+ .kk{
+  font-size: 10px;
+  width: 100px;
+  padding: 8px 8px 8px 8px;
+  color: black;
+  background-color: #96dae5e8;
+  transition: 0.8s;
+
+ }
+ .kk:hover{
+  color:#96dae5e8;
+  background-color: rgb(52, 50, 50);
+ }
+ .kk:active{
+  background-color:white ;
+ }
+
